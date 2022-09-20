@@ -4,7 +4,7 @@ Bu proje python ve çestli kütüphaneler kullanılarak yazılmıştır. Proje Y
 ## Kurulum Adımları ve Gereksinimler
 Python3
 
-pip3
+pip
 
 
 
