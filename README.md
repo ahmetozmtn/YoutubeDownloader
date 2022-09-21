@@ -4,6 +4,8 @@ Bu proje python ve çestli kütüphaneler kullanılarak yazılmıştır. Proje Y
 ## Projenin Özellikleri
 ✅ Video İndirme
 
+✅ Shorts İndirme
+
 ✅ Müzik İndirme
 
 ✅ Playlist Olarak Video ve Müzik İndirme
