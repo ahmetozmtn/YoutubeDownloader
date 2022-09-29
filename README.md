@@ -20,15 +20,26 @@ Python3
 pip
 
 
-
 ### Kütüphane ve Diğer Gereksinimlerin Kurulumu
 
-#### Windows 
+### Linux
+#### Ubuntu & Debian Gerekli Program Ve Araçların Kurulumu
+````
+sudo apt update
+sudo apt python
+sudo apt install python3-pip
+sudo apt install git
+````
 
+#### Programı İndirip Çalıştırma
 ````
+git clone https://github.com/ahmetozmtn/YoutubeDownloader.git
+cd YoutubeDownloader
 pip install -r requirements.txt
+python YoutubeDownloader.py
 ````
-### 
+
+
 
 ## Kullanılan Kütüphaneler
 [pytube](https://github.com/pytube/pytube)
@@ -38,6 +49,3 @@ pip install -r requirements.txt
 [youtube-search-python](https://github.com/alexmercerind/youtube-search-python)
 
 [os](https://github.com/python/cpython/blob/main/Lib/os.py)
-
-# YoutubeDownloader
-YouTube Video and Music Downloader
